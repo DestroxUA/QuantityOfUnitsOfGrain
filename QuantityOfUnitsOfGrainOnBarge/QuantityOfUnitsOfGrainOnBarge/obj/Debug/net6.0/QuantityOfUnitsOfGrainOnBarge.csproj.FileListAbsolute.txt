@@ -1,0 +1,15 @@
+G:\Visual studio projects\QuantityOfUnitsOfGrainOnBarge\QuantityOfUnitsOfGrainOnBarge\obj\Debug\net6.0\QuantityOfUnitsOfGrainOnBarge.csproj.AssemblyReference.cache
+G:\Visual studio projects\QuantityOfUnitsOfGrainOnBarge\QuantityOfUnitsOfGrainOnBarge\obj\Debug\net6.0\QuantityOfUnitsOfGrainOnBarge.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual studio projects\QuantityOfUnitsOfGrainOnBarge\QuantityOfUnitsOfGrainOnBarge\obj\Debug\net6.0\QuantityOfUnitsOfGrainOnBarge.AssemblyInfoInputs.cache
+G:\Visual studio projects\QuantityOfUnitsOfGrainOnBarge\QuantityOfUnitsOfGrainOnBarge\obj\Debug\net6.0\QuantityOfUnitsOfGrainOnBarge.AssemblyInfo.cs
+G:\Visual studio projects\QuantityOfUnitsOfGrainOnBarge\QuantityOfUnitsOfGrainOnBarge\obj\Debug\net6.0\QuantityOfUnitsOfGrainOnBarge.csproj.CoreCompileInputs.cache
+G:\Visual studio projects\QuantityOfUnitsOfGrainOnBarge\QuantityOfUnitsOfGrainOnBarge\bin\Debug\net6.0\QuantityOfUnitsOfGrainOnBarge.exe
+G:\Visual studio projects\QuantityOfUnitsOfGrainOnBarge\QuantityOfUnitsOfGrainOnBarge\bin\Debug\net6.0\QuantityOfUnitsOfGrainOnBarge.deps.json
+G:\Visual studio projects\QuantityOfUnitsOfGrainOnBarge\QuantityOfUnitsOfGrainOnBarge\bin\Debug\net6.0\QuantityOfUnitsOfGrainOnBarge.runtimeconfig.json
+G:\Visual studio projects\QuantityOfUnitsOfGrainOnBarge\QuantityOfUnitsOfGrainOnBarge\bin\Debug\net6.0\QuantityOfUnitsOfGrainOnBarge.dll
+G:\Visual studio projects\QuantityOfUnitsOfGrainOnBarge\QuantityOfUnitsOfGrainOnBarge\bin\Debug\net6.0\QuantityOfUnitsOfGrainOnBarge.pdb
+G:\Visual studio projects\QuantityOfUnitsOfGrainOnBarge\QuantityOfUnitsOfGrainOnBarge\obj\Debug\net6.0\QuantityOfUnitsOfGrainOnBarge.dll
+G:\Visual studio projects\QuantityOfUnitsOfGrainOnBarge\QuantityOfUnitsOfGrainOnBarge\obj\Debug\net6.0\refint\QuantityOfUnitsOfGrainOnBarge.dll
+G:\Visual studio projects\QuantityOfUnitsOfGrainOnBarge\QuantityOfUnitsOfGrainOnBarge\obj\Debug\net6.0\QuantityOfUnitsOfGrainOnBarge.pdb
+G:\Visual studio projects\QuantityOfUnitsOfGrainOnBarge\QuantityOfUnitsOfGrainOnBarge\obj\Debug\net6.0\QuantityOfUnitsOfGrainOnBarge.genruntimeconfig.cache
+G:\Visual studio projects\QuantityOfUnitsOfGrainOnBarge\QuantityOfUnitsOfGrainOnBarge\obj\Debug\net6.0\ref\QuantityOfUnitsOfGrainOnBarge.dll
